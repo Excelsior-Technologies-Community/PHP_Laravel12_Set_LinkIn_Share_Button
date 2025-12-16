@@ -78,4 +78,7 @@ http://127.0.0.1:8000/linkedin-share
 
 ## screenshot
 
-## 1. <img width="735" height="457" alt="image" src="https://github.com/user-attachments/assets/48bb599d-d444-4ab2-b167-ea8a0dda5e4f" />
+## <img width="735" height="457" alt="image" src="https://github.com/user-attachments/assets/48bb599d-d444-4ab2-b167-ea8a0dda5e4f" />
+
+## <img width="1847" height="955" alt="image" src="https://github.com/user-attachments/assets/a2cbe9c7-400d-48a1-9625-bd2ffdbb9083" />
+
