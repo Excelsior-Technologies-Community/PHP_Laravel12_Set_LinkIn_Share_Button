@@ -1,4 +1,4 @@
-# Laravel LinkedIn Share Button Demo
+# PHP_Laravel12_Set_LinkIn_Share_Button
 
 A complete Laravel 12 demo project that shows **how to integrate LinkedIn share buttons** into a Laravel application using Blade, TailwindCSS, and JavaScript. The project demonstrates **three different LinkedIn sharing methods** using a simple blog-style setup.
 
@@ -257,3 +257,4 @@ This project is open-source and available under the MIT License.
 This project is designed for learning and demonstration purposes. You can easily extend it by adding database support, authentication, or dynamic content.
 
 If this project helps you, consider starring the repository on GitHub.
+
